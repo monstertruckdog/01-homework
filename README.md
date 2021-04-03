@@ -1,5 +1,8 @@
 # About "Horiseon" Index Page
 
+## ! TO DO !
+  
+* Add `alt` attributes to images!
 
 ## Background
 
@@ -75,4 +78,5 @@ Code changes made to the forms can be observed from the GitHub UI, but notes on 
 
 Final work on assignment can be found at the following locations:
 
-
+* **GitHub:  [`homework1` Repository](https://github.com/monstertruckdog/homework1)
+* **GitHub - GitPages:  [Hosted assignment submission](https://github.com/monstertruckdog/homework1/Develop/index.html)
