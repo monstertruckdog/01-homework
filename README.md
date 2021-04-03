@@ -3,6 +3,9 @@
 ## ! TO DO !
   
 * Add `alt` attributes to images!
+* Make `nav` links more "accessible" through display styling
+* Condense "HTML" to bullet points
+* Display image of mockup somewhere
 
 ## Background
 
