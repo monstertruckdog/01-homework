@@ -2,11 +2,11 @@
 
 ## ! TO DO !
   
-* Add `alt` attributes to images!
-* Make `nav` links more "accessible" through display styling
-* Condense "HTML" to bullet points
-* Display image of mockup somewhere
-* Refactor assignment file directory as it appears on Git
+- [ ] Add `alt` attributes to images!
+- [ ] Make `nav` links more "accessible" through display styling
+- [ ] Condense "HTML" to bullet points
+- [ ] Display image of mockup somewhere
+- [ ] Refactor assignment file directory as it appears on Git
   - Pull `index.html`, `style.css` and other assets out of nested folders so `index.html` can sit at `root`
 
 ## Background
