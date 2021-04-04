@@ -32,7 +32,7 @@ An image of how the web page should appear was provided to the student to use in
 
 #### Desired End Product
 
-![image of web page](./assets/images/01-html-css-git-homework-demo.png =200x)
+<img src="./assets/images/01-html-css-git-homework-demo.png" width=25% height=25%>
 
 ----
 
